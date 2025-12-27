@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
