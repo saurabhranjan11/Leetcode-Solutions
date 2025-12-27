@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
