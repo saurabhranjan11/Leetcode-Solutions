@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3606-coupon-code-validator](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -66,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
