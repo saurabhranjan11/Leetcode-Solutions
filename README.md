@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3606-coupon-code-validator](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
