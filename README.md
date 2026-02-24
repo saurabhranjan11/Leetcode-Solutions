@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Enumeration
 |  |
