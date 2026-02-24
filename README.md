@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
