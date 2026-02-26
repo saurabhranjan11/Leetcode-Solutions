@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Sorting
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Geometry
 |  |
