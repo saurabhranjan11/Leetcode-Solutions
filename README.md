@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3606-coupon-code-validator](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3606-coupon-code-validator](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
