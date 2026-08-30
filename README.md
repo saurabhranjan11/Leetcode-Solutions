@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Simulation
 |  |
