@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0836-rectangle-overlap](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/saurabhranjan11/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Two Pointers
 |  |
